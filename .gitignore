@@ -1,1 +1,20 @@
-/venv
+# Node
+node_modules/
+build/
+dist/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+
+# React/Django specific
+*.log
+db.sqlite3
+.env
+*.env
+staticfiles/
+media/
